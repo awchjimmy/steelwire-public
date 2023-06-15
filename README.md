@@ -6,3 +6,4 @@
 
 ### 製程介紹
 - [酸洗](https://zh.wikipedia.org/wiki/%E9%85%B8%E6%B4%97)
+- [退火](https://zh.wikipedia.org/wiki/%E9%80%80%E7%81%AB)
